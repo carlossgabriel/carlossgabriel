@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📚 I'm looking for my bachelor's degree in computer science, currently in the 7th semester
+- 📚 I'm looking for my bachelor's degree in computer science, currently in the 8th semester
 - 🔭 I’m currently working as a FullStack developer at Softmakers BR
 - 🌱 I’m currently learning NODE, REACT (and REACT Native), PYTHON
 - 🤔 I’m looking for help with REACT and REACT NATIVE
