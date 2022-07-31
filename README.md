@@ -4,4 +4,4 @@
 
 
 
-- 📫 Reach me: https://www.linkedin.com/in/carlos-gs-albuquerque/ || cgsalbuquerque@gmail.com
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/carlos-gs-albuquerque/) || [cgsalbuquerque@gmail.com](cgsalbuquerque@gmail.com)
