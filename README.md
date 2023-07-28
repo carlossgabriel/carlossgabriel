@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Working at [Quality24](https://quality24.com.br/)
-- I'm a backend developer with focus on cloud technologies and a passion for optimizing performance and scripts to automate things in general. Here are the primary tools and technologies I'm working, or have worked with:
+- I'm a backend developer focused on cloud technologies and a passion for scripts to automate things in general. Here are the some of the tools and technologies I'm working, or have worked with:
 
 - 🚀 JavaScript ES6+ && TypeScript
 - 🔧 NodeJS (Express, NestJS)
