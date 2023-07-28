@@ -1,7 +1,20 @@
 ### Hi there 👋
 - 🔭 Working at [Quality24](https://quality24.com.br/)
-- <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODE JS" /></a>, <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>, <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a> and <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /></a>
+- I'm a backend developer with focus on cloud technologies and a passion for optimizing performance and scripts to automate things in general. Here are the primary tools and technologies I'm working, or have worked with:
 
+- 🚀 JavaScript ES6+ && TypeScript
+- 🔧 NodeJS (Express, NestJS)
+- 🍃 NoSQL databases (MongoDB, Redis)
+- 📊 Transactional databases (PostgreSQL)
+- 🧪 Test automation and unit testing (Jest)
+- 🐳 Docker
+- 🐍 Python
+- ☕  Java
+- ☁️ Cloud Computing (AWS && GCP)
 
+ps.: Most of my repositories are private!
+
+Hobbies
+🎵 Music || 📸 Photography || 📖 Reading || 🎮 Gaming || ✈️ Travel || ⌨️ Mechanical keyboards || 🤖 Electronics && automation
 
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/carlos-gs-albuquerque/) || [cgsalbuquerque@gmail.com](cgsalbuquerque@gmail.com)
